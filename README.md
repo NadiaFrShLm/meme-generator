@@ -1,7 +1,7 @@
 # meme-generator
 Meme Generator project using React and API
 
-![screenshot](https://user-images.githubusercontent.com/84836971/224768518-b31d90b4-d652-4ec4-bd02-af192fc7015b.png)
+![screenshot](https://user-images.githubusercontent.com/84836971/224773281-b05e1a24-a6b1-49e4-a1f3-890ff6cc5598.png)
 
 Interactive web app in React
 
